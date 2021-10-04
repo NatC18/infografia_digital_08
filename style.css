@@ -60,16 +60,16 @@
   }
 
   @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
-  .st011{fill:#383838;}
-  .st111{font-family:'Roboto';font-weight: 700;}
-  .st211{font-size:14px;}
-  .st311{opacity:0.5;}
-  .st411{font-family:'Roboto';font-weight: 700;}
-  .st511{fill:#231F20;stroke:#231F20;stroke-miterlimit:10;}
-  .st611{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:1;}
-  .st711{fill:#231F20;}
-  .st811{font-family:'Roboto';font-weight: 300;}
-  .st911{fill:#77787B;}
+  .st01{fill:#383838;}
+  .st11{font-family:'Roboto';font-weight: 700;}
+  .st21{font-size:14px;}
+  .st31{opacity:0.5;}
+  .st41{font-family:'Roboto';font-weight: 700;}
+  .st51{fill:#231F20;stroke:#231F20;stroke-miterlimit:10;}
+  .st61{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:1;}
+  .st71{fill:#231F20;}
+  .st81{font-family:'Roboto';font-weight: 300;}
+  .st91{fill:#77787B;}
 
   @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
   .st02{opacity:0.5;enable-background:new    ;}
